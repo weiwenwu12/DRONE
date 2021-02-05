@@ -1,5 +1,5 @@
 # DRONE
-DRONE focus on reconstructing  good images from CT scanner with 60 views of fan-beam geometry. 
+DRONE focuses on reconstructing  good images from CT scanner with 60 views of fan-beam geometry. 
 # DRONE: Dual-domain Residual-based Optimization Network for Sparse-view CT Reconstruction
 
 Before using this code, you need to install Python and the TensorFlow library.
