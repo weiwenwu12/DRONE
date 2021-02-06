@@ -15,7 +15,7 @@ If you have any question about the code, please contact with the author, email: 
 
 ## Environment:
 Windows 10:
-python 3.6.5, cuda 10.0, tensorflow 1.3.1 
+python 3.6.5, cuda 10.0, tensorflow 1.13.1 
 
 Because odl reconstruction toolbox (https://github.com/odlgroup/odl/tree/master/odl/tomo) is used in DRONE, you need to install the odl software using easy-install strategy.
 
