@@ -2,7 +2,7 @@
 DRONE focuses on reconstructing  good images from CT scanner with 60 views of fan-beam geometry. 
 # DRONE: Dual-domain Residual-based Optimization Network for Sparse-view CT Reconstruction
 
-Before using this code, you need to install Python and the TensorFlow library.
+Before using this code, you need to install Python and the TensorFlow library. The code, trained models and test datasets can be downloaded from google drive(https://drive.google.com/file/d/14U94Hn4J-yhm6sPoGBPKYYqqxTJQZRzi/view?usp=sharing) or Zenode (https://zenodo.org/record/4638216) 
 
 If you use the code, please cite our work
 @article{
